@@ -1,6 +1,6 @@
 /*
  * @author panks
- * Big Integer library in C++, single file implementation.
+ * Big Integer library in C++, implementation.
  */
 #include <iostream>
 #include <string>
