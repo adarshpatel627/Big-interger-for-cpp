@@ -1,5 +1,5 @@
 /*
- * @author panks
+ * Adarsh Patel
  * Big Integer library in C++, implementation.
  */
 #include <iostream>
